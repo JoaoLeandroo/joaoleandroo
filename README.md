@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Olá, eu sou Joao Leandro!
 
-<!--
-**JoaoLeandroo/joaoleandroo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um desenvolvedor **Front-End** apaixonado por tecnologia e desenvolvimento web. Tenho experiência com **React, Next.js, TypeScript** e outras tecnologias modernas para criar aplicações performáticas e escaláveis.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias e Ferramentas
+
+- 🔹 **Linguagens:** JavaScript, TypeScript, Python 
+- 🔹 **Front-End:** React, Next.js, TailwindCSS, Html, Css  
+- 🔹 **Back-End:** Node.js, Prisma, NestJS  
+- 🔹 **Banco de Dados:** PostgreSQL, MySQL, Supabase  
+
+---
+
+## 📌 Projetos em Destaque
+
+🔹 **[Backend E-commerce](https://github.com/JoaoLeandroo/backend-ecommerce)** – Api feita para criação de um e-commerce, utilizando NodeJs com Express.  
+🔹 **[Portifólio](https://github.com/JoaoLeandroo/joaoleandro)** – Meu portifólio criado utilizando NextJs.  
+
+
+
+_Sempre aprendendo e buscando novos desafios! 🚀_
+
