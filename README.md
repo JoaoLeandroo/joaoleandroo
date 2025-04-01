@@ -8,7 +8,7 @@ Sou um desenvolvedor **Front-End** apaixonado por tecnologia e desenvolvimento w
 
 - 🔹 **Linguagens:** JavaScript, TypeScript, Python 
 - 🔹 **Front-End:** React, Next.js, TailwindCSS, Html, Css  
-- 🔹 **Back-End:** Node.js, Prisma, NestJS  
+- 🔹 **Back-End:** Node.js, Prisma, NestJS, Express  
 - 🔹 **Banco de Dados:** PostgreSQL, MySQL, Supabase  
 
 ---
